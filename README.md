@@ -1,6 +1,6 @@
 # Holidays_2026.vbs
 
-`Holidays_2026.vbs` is a Windows VBScript that adds 2026 company holidays to your default Microsoft Outlook Calendar.
+`Holidays_2026.vbs` is a Windows VBScript that adds 2026 City of Austin holidays to your default Microsoft Outlook Calendar.
 
 ## What it does
 
